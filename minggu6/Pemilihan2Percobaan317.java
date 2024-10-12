@@ -1,4 +1,6 @@
+package minggu6;
 import java.util.Scanner;
+
 public class Pemilihan2Percobaan317 {
     public static void main(String[] args) {
         Scanner absen17 = new Scanner(System.in);
