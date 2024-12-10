@@ -86,3 +86,8 @@ public class SistemInventarisGudang {
     }
     
 }
+
+//menampilkan tabel kepuasan
+//menghitung rata2 per program
+//menentukan daerah dgn nilai kepuasan tertinggi utk setiap program
+//menentukan program favorit dari tiap daerah
